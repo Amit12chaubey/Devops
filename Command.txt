@@ -1,0 +1,6 @@
+git init
+git diff
+git add filname
+git status
+git log
+
